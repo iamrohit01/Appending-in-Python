@@ -12,7 +12,6 @@ The code defines two classes:
 ## Files
 
 -   `append.py`: Contains the complete implementation of the linked list with the `append` method.
--   `Readme.md`: This file, providing an overview of the project.
 
 ## Usage
 
